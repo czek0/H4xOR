@@ -21,7 +21,7 @@
 ## Meta
 
 
-Rights to API structure and code to The App Brewery
+Rights to API structure and tutorial code to The App Brewery
 
 [https://github.com/czek0]
 
