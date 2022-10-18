@@ -21,7 +21,7 @@
 ## Meta
 
 
-Distributed under the XYZ license. See ``LICENSE`` for more information.
+Rights to API structure and code to The App Brewery
 
 [https://github.com/czek0]
 
